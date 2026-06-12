@@ -34,19 +34,19 @@ My interest in technology started from curiosity about how systems work, which d
 ---
 
 ### ⚙️ Backend
-#(https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/php.svg)
-https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/laravel.svg
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/php.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/laravel.svg" width="40"/>
 ---
 
 ### 🗄️ Database
-https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mysql.svg
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mysql.svg" width="40"/>
 ---
 
 ### 🧰 Tools & Platforms
 
 - REST APIs
-https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/git.svg
-https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/git.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" width="40"/>
 ---
 
 ## 🚀 What I Do
