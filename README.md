@@ -34,20 +34,19 @@ My interest in technology started from curiosity about how systems work, which d
 ---
 
 ### ⚙️ Backend
-(https://img.shields.io/badge/Php-7952B3?style=for-the-badge&logo=php&logoColor=white)
-(https://img.shields.io/badge/Laravel-7952B3?style=for-the-badge&logo=laravel&logoColor=white)
+#(https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/php.svg)
+https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/laravel.svg
 ---
 
 ### 🗄️ Database
-(https://img.shields.io/badge/Mysql-7952B3?style=for-the-badge&logo=mysql&logoColor=white)
-
+https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mysql.svg
 ---
 
 ### 🧰 Tools & Platforms
 
 - REST APIs
-(https://img.shields.io/badge/Git-7952B3?style=for-the-badge&logo=git&logoColor=white)
-(https://img.shields.io/badge/Github-7952B3?style=for-the-badge&logo=github&logoColor=white)
+https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/git.svg
+https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg
 ---
 
 ## 🚀 What I Do
